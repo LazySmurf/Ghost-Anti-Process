@@ -1,0 +1,31 @@
+[12:11:35 AM] Monday, January 6, 2020
+[12:11:35 AM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[12:11:35 AM] Process Kill Interval: 250ms
+[12:11:35 AM] Loading Complete!
+[12:11:36 AM] ctfmon.exe killed!
+[12:11:36 AM] WmiPrvSE.exe killed!
+[12:11:36 AM] SearchIndexer.exe killed!
+[12:11:36 AM] sppsvc.exe killed!
+[12:11:36 AM] SearchFilterHost.exe killed!
+[12:11:36 AM] ctfmon.exe killed!
+[12:11:37 AM] Log Hidden!
+[12:11:37 AM] WmiPrvSE.exe killed!
+[12:11:38 AM] WmiPrvSE.exe killed!
+[12:11:38 AM] Log Revealed!
+[12:11:40 AM] Log Hidden!
+[12:11:41 AM] Log Revealed!
+[12:11:41 AM] WmiPrvSE.exe killed!
+[12:11:41 AM] WmiPrvSE.exe killed!
+[12:11:41 AM] ctfmon.exe killed!
+[12:11:42 AM] WmiPrvSE.exe killed!
+[12:11:43 AM] Log Hidden!
+[12:11:43 AM] WmiPrvSE.exe killed!
+[12:11:44 AM] Log Revealed!
+[12:11:45 AM] Log Hidden!
+[12:11:45 AM] WmiPrvSE.exe killed!
+[12:11:46 AM] Log Revealed!
+[12:11:46 AM] ctfmon.exe killed!
+[12:11:47 AM] Log Hidden!
+[12:11:48 AM] Log Revealed!
+[12:11:49 AM] WmiPrvSE.exe killed!
+[12:11:50 AM] Closing! Saving log...

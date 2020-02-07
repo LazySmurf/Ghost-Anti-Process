@@ -1,0 +1,55 @@
+[4:18:51 PM] Wednesday, January 29, 2020
+[4:18:51 PM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[4:18:51 PM] Process Kill Interval: 250ms
+[4:18:51 PM] Loading Complete!
+[4:18:51 PM] Hiding to tray...
+[4:18:51 PM] ctfmon.exe killed!
+[4:18:51 PM] WmiPrvSE.exe killed!
+[4:18:51 PM] WmiPrvSE.exe killed!
+[4:18:51 PM] ctfmon.exe killed!
+[4:18:51 PM] WmiPrvSE.exe killed!
+[4:18:51 PM] WmiPrvSE.exe killed!
+[4:18:51 PM] WmiPrvSE.exe killed!
+[4:18:51 PM] WmiPrvSE.exe killed!
+[4:18:52 PM] WmiPrvSE.exe killed!
+[4:18:52 PM] WmiPrvSE.exe killed!
+[4:18:52 PM] WmiPrvSE.exe killed!
+[4:18:52 PM] WmiPrvSE.exe killed!
+[4:18:54 PM] WmiPrvSE.exe killed!
+[4:18:56 PM] ctfmon.exe killed!
+[4:18:58 PM] Log Hidden!
+[4:19:00 PM] Log Revealed!
+[4:19:01 PM] ctfmon.exe killed!
+[4:19:04 PM] SearchUI.exe killed!
+[4:19:04 PM] SearchFilterHost.exe killed!
+[4:19:06 PM] SearchUI.exe killed!
+[4:19:06 PM] Failed to end task: SearchUI.exe
+[4:19:06 PM] Failed to end task: SearchUI.exe
+[4:19:07 PM] ctfmon.exe killed!
+[4:19:07 PM] KMS Server Service.exe killed!
+[4:19:11 PM] SearchUI.exe killed!
+[4:19:11 PM] ctfmon.exe killed!
+[4:19:15 PM] SearchUI.exe killed!
+[4:19:16 PM] ctfmon.exe killed!
+[4:19:17 PM] SearchUI.exe killed!
+[4:19:19 PM] SearchUI.exe killed!
+[4:19:21 PM] ctfmon.exe killed!
+[4:19:25 PM] WmiPrvSE.exe killed!
+[4:19:26 PM] SearchUI.exe killed!
+[4:19:26 PM] ctfmon.exe killed!
+[4:19:30 PM] WmiPrvSE.exe killed!
+[4:19:31 PM] ctfmon.exe killed!
+[4:19:32 PM] WmiPrvSE.exe killed!
+[4:19:35 PM] WmiPrvSE.exe killed!
+[4:19:35 PM] backgroundTaskHost.exe killed!
+[4:19:35 PM] SearchUI.exe killed!
+[4:19:36 PM] ctfmon.exe killed!
+[4:19:37 PM] SearchUI.exe killed!
+[4:19:41 PM] ctfmon.exe killed!
+[4:19:42 PM] SearchUI.exe killed!
+[4:19:44 PM] SearchUI.exe killed!
+[4:19:46 PM] ctfmon.exe killed!
+[4:19:48 PM] SearchUI.exe killed!
+[4:19:51 PM] SearchUI.exe killed!
+[4:19:51 PM] ctfmon.exe killed!
+[4:19:55 PM] Closing! Saving log...

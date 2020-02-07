@@ -1,0 +1,24 @@
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\bin\Debug\Software Protection Protection.exe.config
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\bin\Debug\Software Protection Protection.exe
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\bin\Debug\Software Protection Protection.pdb
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\bin\Debug\Software Protection Protection.xml
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software Protection Protection.vbprojResolveAssemblyReference.cache
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software_Protection_Protection.Form1.resources
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software_Protection_Protection.Resources.resources
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software Protection Protection.vbproj.GenerateResource.cache
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software Protection Protection.vbproj.CoreCompileInputs.cache
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software Protection Protection.exe
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software Protection Protection.xml
+C:\Users\Makeshift\AppData\Local\Temporary Projects\Software Protection Protection\obj\Debug\Software Protection Protection.pdb
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Software Protection Protection.vbprojResolveAssemblyReference.cache
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Software Protection Protection.vbproj.GenerateResource.cache
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Software Protection Protection.vbproj.CoreCompileInputs.cache
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Ghost Anti-Process.exe.config
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Ghost Anti-Process.exe
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Ghost Anti-Process.pdb
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Ghost Anti-Process.xml
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Ghost_AntiProcess.Resources.resources
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Ghost Anti-Process.exe
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Ghost Anti-Process.xml
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Ghost Anti-Process.pdb
+C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\obj\Debug\Ghost_AntiProcess.GhostAntiProcess.resources

@@ -1,0 +1,22 @@
+[7:22:13 AM] Sunday, January 5, 2020
+[7:22:13 AM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[7:22:13 AM] Process Kill Interval: 250ms
+[7:22:13 AM] Loading Complete!
+[7:22:14 AM] Failed to end a task.
+[7:22:14 AM] Failed to end a task.
+[7:22:14 AM] Failed to end a task.
+[7:22:14 AM] Failed to end a task.
+[7:22:15 AM] Failed to end a task.
+[7:22:15 AM] Failed to end a task.
+[7:22:15 AM] Failed to end a task.
+[7:22:15 AM] Failed to end a task.
+[7:22:16 AM] Failed to end a task.
+[7:22:16 AM] Failed to end a task.
+[7:22:16 AM] Failed to end a task.
+[7:22:16 AM] Failed to end a task.
+[7:22:17 AM] Failed to end a task.
+[7:22:17 AM] Failed to end a task.
+[7:22:17 AM] Failed to end a task.
+[7:22:17 AM] Failed to end a task.
+[7:22:18 AM] Failed to end a task.
+[7:22:18 AM] Closing! Saving log...

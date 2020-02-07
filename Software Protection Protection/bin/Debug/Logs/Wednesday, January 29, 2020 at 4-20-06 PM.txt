@@ -1,0 +1,9 @@
+[4:20:01 PM] Wednesday, January 29, 2020
+[4:20:01 PM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[4:20:01 PM] Process Kill Interval: 250ms
+[4:20:01 PM] Loading Complete!
+[4:20:01 PM] ctfmon.exe killed!
+[4:20:01 PM] ctfmon.exe killed!
+[4:20:05 PM] WmiPrvSE.exe killed!
+[4:20:05 PM] WmiPrvSE.exe killed!
+[4:20:06 PM] Closing! Saving log...

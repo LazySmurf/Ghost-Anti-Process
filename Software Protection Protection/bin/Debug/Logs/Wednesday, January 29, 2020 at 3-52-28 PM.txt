@@ -1,0 +1,35 @@
+[3:52:13 PM] Wednesday, January 29, 2020
+[3:52:13 PM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[3:52:13 PM] Process Kill Interval: 250ms
+[3:52:13 PM] Loading Complete!
+[3:52:13 PM] Hiding to tray...
+[3:52:13 PM] SystemSettings.exe killed!
+[3:52:13 PM] sppsvc.exe killed!
+[3:52:13 PM] SearchIndexer.exe killed!
+[3:52:13 PM] SettingSyncHost.exe killed!
+[3:52:13 PM] WmiPrvSE.exe killed!
+[3:52:13 PM] LogiRegistryService.exe killed!
+[3:52:13 PM] WmiPrvSE.exe killed!
+[3:52:13 PM] ctfmon.exe killed!
+[3:52:13 PM] AAM Updates Notifier.exe killed!
+[3:52:13 PM] YourPhone.exe killed!
+[3:52:13 PM] ZeroConfigService.exe killed!
+[3:52:14 PM] Failed to end task: SystemSettings.exe
+[3:52:14 PM] Failed to end task: SystemSettings.exe
+[3:52:14 PM] Failed to end task: SystemSettings.exe
+[3:52:15 PM] Failed to end task: SystemSettings.exe
+[3:52:15 PM] Failed to end task: SettingSyncHost.exe
+[3:52:15 PM] Failed to end task: SettingSyncHost.exe
+[3:52:15 PM] Failed to end task: SettingSyncHost.exe
+[3:52:16 PM] Failed to end task: SettingSyncHost.exe
+[3:52:16 PM] Failed to end task: SettingSyncHost.exe
+[3:52:16 PM] Failed to end task: SettingSyncHost.exe
+[3:52:16 PM] ctfmon.exe killed!
+[3:52:16 PM] WmiPrvSE.exe killed!
+[3:52:17 PM] WmiPrvSE.exe killed!
+[3:52:18 PM] WmiPrvSE.exe killed!
+[3:52:19 PM] ctfmon.exe killed!
+[3:52:21 PM] WmiPrvSE.exe killed!
+[3:52:24 PM] ctfmon.exe killed!
+[3:52:25 PM] WmiPrvSE.exe killed!
+[3:52:28 PM] Closing! Saving log...
