@@ -129,29 +129,6 @@ Public Class GhostAntiProcess
                     My.Settings.KMSService = False
                 End If
 
-                If BGTaskHostCheck.Checked = True Then
-                    If Target.ProcessName = "backgroundTaskHost" Then 'If some unnecessary Windows service
-                        CurrProc = "backgroundTaskHost.exe"
-                        Target.Kill()
-                        ConsoleLog("backgroundTaskHost.exe killed!")
-                    End If
-                    My.Settings.BGTaskHost = True
-                Else
-                    My.Settings.BGTaskHost = False
-                End If
-
-                If SettingSyncHostCheck.Checked = True Then
-                    If Target.ProcessName = "SettingSyncHost" Then 'If some unnecessary service to sync settings that most people don't use
-                        CurrProc = "SettingSyncHost.exe"
-                        Target.Kill()
-                        ConsoleLog("SettingSyncHost.exe killed!")
-                    End If
-                    My.Settings.SettingSyncHost = True
-                Else
-                    My.Settings.SettingSyncHost = False
-                End If
-
-
                 '```````````````````````````````````````````````````````````````````````'
 
                 If Target.ProcessName = "YourPhone" Then 'If Windows Your Phone Mobile service
@@ -178,6 +155,18 @@ Public Class GhostAntiProcess
                     ConsoleLog("ctfmon.exe killed!")
                 End If
 
+                If Target.ProcessName = "SettingSyncHost" Then 'If some unnecessary service to sync settings that most people don't use
+                    CurrProc = "SettingSyncHost.exe"
+                    Target.Kill()
+                    ConsoleLog("SettingSyncHost.exe killed!")
+                End If
+
+                If Target.ProcessName = "backgroundTaskHost" Then 'If some unnecessary Windows service
+                    CurrProc = "backgroundTaskHost.exe"
+                    Target.Kill()
+                    ConsoleLog("backgroundTaskHost.exe killed!")
+                End If
+
                 If Target.ProcessName = "LogiRegistryService" Then 'If logitech gaming driver registry service
                     CurrProc = "LogiRegistryService.exe"
                     Target.Kill()
@@ -200,6 +189,10 @@ Public Class GhostAntiProcess
         Catch ex As Exception
             ConsoleLog("Failed to end task: " & CurrProc)
         End Try
+    End Sub
+
+    Private Sub CloseButton_Click(sender As Object, e As EventArgs) Handles CloseButton.Click
+        Close()
     End Sub
 
     'Handles logging application events to the log window
