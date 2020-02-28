@@ -1,0 +1,538 @@
+[7:03:17 PM] Monday, February 24, 2020
+[7:03:17 PM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[7:03:17 PM] Process Kill Interval: 250ms
+[7:03:17 PM] Loading Complete!
+[7:03:17 PM] Hiding to tray...
+[7:03:18 PM] SearchUI.exe killed!
+[7:03:18 PM] SystemSettings.exe killed!
+[7:03:18 PM] ctfmon.exe killed!
+[7:03:18 PM] SearchFilterHost.exe killed!
+[7:03:18 PM] YourPhone.exe killed!
+[7:03:18 PM] Microsoft.Photos.exe killed!
+[7:03:18 PM] SettingSyncHost.exe killed!
+[7:03:18 PM] SearchIndexer.exe killed!
+[7:03:18 PM] WmiPrvSE.exe killed!
+[7:03:18 PM] ctfmon.exe killed!
+[7:03:18 PM] SettingSyncHost.exe killed!
+[7:03:20 PM] SearchUI.exe killed!
+[7:03:22 PM] SearchUI.exe killed!
+[7:03:23 PM] ctfmon.exe killed!
+[7:03:23 PM] SearchIndexer.exe killed!
+[7:03:24 PM] SearchUI.exe killed!
+[7:03:25 PM] WmiPrvSE.exe killed!
+[7:03:27 PM] WmiPrvSE.exe killed!
+[7:03:28 PM] ctfmon.exe killed!
+[7:03:29 PM] SearchUI.exe killed!
+[7:03:31 PM] SearchUI.exe killed!
+[7:03:33 PM] ctfmon.exe killed!
+[7:03:38 PM] ctfmon.exe killed!
+[7:03:43 PM] ctfmon.exe killed!
+[7:03:43 PM] sppsvc.exe killed!
+[7:03:48 PM] SearchIndexer.exe killed!
+[7:03:48 PM] ctfmon.exe killed!
+[7:03:48 PM] SearchIndexer.exe killed!
+[7:03:48 PM] SearchIndexer.exe killed!
+[7:03:49 PM] SearchIndexer.exe killed!
+[7:03:49 PM] SearchIndexer.exe killed!
+[7:03:49 PM] SearchIndexer.exe killed!
+[7:03:51 PM] SearchIndexer.exe killed!
+[7:03:51 PM] SearchIndexer.exe killed!
+[7:03:51 PM] SearchIndexer.exe killed!
+[7:03:51 PM] SearchIndexer.exe killed!
+[7:03:52 PM] SearchIndexer.exe killed!
+[7:03:52 PM] SearchIndexer.exe killed!
+[7:03:52 PM] SearchIndexer.exe killed!
+[7:03:52 PM] SearchIndexer.exe killed!
+[7:03:53 PM] SearchIndexer.exe killed!
+[7:03:53 PM] ctfmon.exe killed!
+[7:03:53 PM] SearchIndexer.exe killed!
+[7:03:53 PM] SearchIndexer.exe killed!
+[7:03:53 PM] SearchIndexer.exe killed!
+[7:03:54 PM] SearchIndexer.exe killed!
+[7:03:54 PM] SearchIndexer.exe killed!
+[7:03:54 PM] SearchIndexer.exe killed!
+[7:03:54 PM] SearchIndexer.exe killed!
+[7:03:55 PM] SearchIndexer.exe killed!
+[7:03:55 PM] SearchIndexer.exe killed!
+[7:03:55 PM] WmiPrvSE.exe killed!
+[7:03:55 PM] SearchIndexer.exe killed!
+[7:03:55 PM] WmiPrvSE.exe killed!
+[7:03:56 PM] WmiPrvSE.exe killed!
+[7:03:56 PM] WmiPrvSE.exe killed!
+[7:03:56 PM] WmiPrvSE.exe killed!
+[7:03:56 PM] WmiPrvSE.exe killed!
+[7:03:57 PM] WmiPrvSE.exe killed!
+[7:03:57 PM] WmiPrvSE.exe killed!
+[7:03:57 PM] WmiPrvSE.exe killed!
+[7:03:57 PM] WmiPrvSE.exe killed!
+[7:03:58 PM] WmiPrvSE.exe killed!
+[7:03:58 PM] WmiPrvSE.exe killed!
+[7:03:58 PM] ctfmon.exe killed!
+[7:03:58 PM] WmiPrvSE.exe killed!
+[7:03:59 PM] WmiPrvSE.exe killed!
+[7:03:59 PM] WmiPrvSE.exe killed!
+[7:03:59 PM] WmiPrvSE.exe killed!
+[7:04:00 PM] WmiPrvSE.exe killed!
+[7:04:00 PM] WmiPrvSE.exe killed!
+[7:04:01 PM] WmiPrvSE.exe killed!
+[7:04:01 PM] WmiPrvSE.exe killed!
+[7:04:01 PM] WmiPrvSE.exe killed!
+[7:04:02 PM] WmiPrvSE.exe killed!
+[7:04:03 PM] ctfmon.exe killed!
+[7:04:04 PM] WmiPrvSE.exe killed!
+[7:04:04 PM] WmiPrvSE.exe killed!
+[7:04:07 PM] WmiPrvSE.exe killed!
+[7:04:08 PM] ctfmon.exe killed!
+[7:04:13 PM] ctfmon.exe killed!
+[7:04:18 PM] ctfmon.exe killed!
+[7:04:18 PM] SearchIndexer.exe killed!
+[7:04:18 PM] SearchIndexer.exe killed!
+[7:04:19 PM] SearchIndexer.exe killed!
+[7:04:19 PM] SearchIndexer.exe killed!
+[7:04:19 PM] SearchIndexer.exe killed!
+[7:04:19 PM] SearchIndexer.exe killed!
+[7:04:20 PM] SearchIndexer.exe killed!
+[7:04:23 PM] ctfmon.exe killed!
+[7:04:28 PM] ctfmon.exe killed!
+[7:04:33 PM] ctfmon.exe killed!
+[7:04:37 PM] WmiPrvSE.exe killed!
+[7:04:38 PM] ctfmon.exe killed!
+[7:04:40 PM] WmiPrvSE.exe killed!
+[7:04:43 PM] WmiPrvSE.exe killed!
+[7:04:43 PM] WmiPrvSE.exe killed!
+[7:04:43 PM] ctfmon.exe killed!
+[7:04:44 PM] WmiPrvSE.exe killed!
+[7:04:46 PM] WmiPrvSE.exe killed!
+[7:04:48 PM] ctfmon.exe killed!
+[7:04:49 PM] WmiPrvSE.exe killed!
+[7:04:52 PM] WmiPrvSE.exe killed!
+[7:04:53 PM] ctfmon.exe killed!
+[7:04:55 PM] WmiPrvSE.exe killed!
+[7:04:56 PM] WmiPrvSE.exe killed!
+[7:04:58 PM] ctfmon.exe killed!
+[7:04:59 PM] WmiPrvSE.exe killed!
+[7:05:00 PM] WmiPrvSE.exe killed!
+[7:05:02 PM] WmiPrvSE.exe killed!
+[7:05:03 PM] ctfmon.exe killed!
+[7:05:05 PM] WmiPrvSE.exe killed!
+[7:05:08 PM] WmiPrvSE.exe killed!
+[7:05:08 PM] WmiPrvSE.exe killed!
+[7:05:08 PM] ctfmon.exe killed!
+[7:05:11 PM] WmiPrvSE.exe killed!
+[7:05:13 PM] ctfmon.exe killed!
+[7:05:14 PM] WmiPrvSE.exe killed!
+[7:05:17 PM] WmiPrvSE.exe killed!
+[7:05:18 PM] ctfmon.exe killed!
+[7:05:20 PM] WmiPrvSE.exe killed!
+[7:05:23 PM] ctfmon.exe killed!
+[7:05:24 PM] WmiPrvSE.exe killed!
+[7:05:27 PM] WmiPrvSE.exe killed!
+[7:05:28 PM] ctfmon.exe killed!
+[7:05:30 PM] WmiPrvSE.exe killed!
+[7:05:33 PM] WmiPrvSE.exe killed!
+[7:05:33 PM] WmiPrvSE.exe killed!
+[7:05:33 PM] ctfmon.exe killed!
+[7:05:38 PM] ctfmon.exe killed!
+[7:05:43 PM] ctfmon.exe killed!
+[7:05:48 PM] ctfmon.exe killed!
+[7:05:53 PM] ctfmon.exe killed!
+[7:05:58 PM] ctfmon.exe killed!
+[7:06:00 PM] WmiPrvSE.exe killed!
+[7:06:03 PM] ctfmon.exe killed!
+[7:06:08 PM] ctfmon.exe killed!
+[7:06:13 PM] ctfmon.exe killed!
+[7:06:18 PM] ctfmon.exe killed!
+[7:06:20 PM] SearchIndexer.exe killed!
+[7:06:20 PM] SearchIndexer.exe killed!
+[7:06:20 PM] SearchIndexer.exe killed!
+[7:06:21 PM] SearchIndexer.exe killed!
+[7:06:23 PM] ctfmon.exe killed!
+[7:06:28 PM] ctfmon.exe killed!
+[7:06:33 PM] ctfmon.exe killed!
+[7:06:38 PM] ctfmon.exe killed!
+[7:06:43 PM] ctfmon.exe killed!
+[7:06:48 PM] ctfmon.exe killed!
+[7:06:53 PM] ctfmon.exe killed!
+[7:06:58 PM] ctfmon.exe killed!
+[7:07:00 PM] WmiPrvSE.exe killed!
+[7:07:03 PM] ctfmon.exe killed!
+[7:07:08 PM] ctfmon.exe killed!
+[7:07:13 PM] ctfmon.exe killed!
+[7:07:18 PM] ctfmon.exe killed!
+[7:07:23 PM] ctfmon.exe killed!
+[7:07:28 PM] ctfmon.exe killed!
+[7:07:33 PM] ctfmon.exe killed!
+[7:07:38 PM] ctfmon.exe killed!
+[7:07:43 PM] ctfmon.exe killed!
+[7:07:48 PM] ctfmon.exe killed!
+[7:07:53 PM] SettingSyncHost.exe killed!
+[7:07:53 PM] Microsoft.Photos.exe killed!
+[7:07:53 PM] ctfmon.exe killed!
+[7:07:58 PM] ctfmon.exe killed!
+[7:08:00 PM] WmiPrvSE.exe killed!
+[7:08:03 PM] ctfmon.exe killed!
+[7:08:08 PM] ctfmon.exe killed!
+[7:08:12 PM] SearchUI.exe killed!
+[7:08:12 PM] backgroundTaskHost.exe killed!
+[7:08:12 PM] backgroundTaskHost.exe killed!
+[7:08:13 PM] WmiPrvSE.exe killed!
+[7:08:13 PM] ctfmon.exe killed!
+[7:08:19 PM] ctfmon.exe killed!
+[7:08:21 PM] SearchIndexer.exe killed!
+[7:08:21 PM] SearchIndexer.exe killed!
+[7:08:21 PM] SearchIndexer.exe killed!
+[7:08:22 PM] SearchIndexer.exe killed!
+[7:08:22 PM] SearchIndexer.exe killed!
+[7:08:22 PM] SearchIndexer.exe killed!
+[7:08:22 PM] SearchIndexer.exe killed!
+[7:08:23 PM] SearchIndexer.exe killed!
+[7:08:23 PM] SearchIndexer.exe killed!
+[7:08:23 PM] SearchIndexer.exe killed!
+[7:08:23 PM] SearchIndexer.exe killed!
+[7:08:24 PM] ctfmon.exe killed!
+[7:08:24 PM] SearchIndexer.exe killed!
+[7:08:24 PM] SearchIndexer.exe killed!
+[7:08:24 PM] SearchIndexer.exe killed!
+[7:08:24 PM] SearchIndexer.exe killed!
+[7:08:25 PM] SearchIndexer.exe killed!
+[7:08:29 PM] ctfmon.exe killed!
+[7:08:34 PM] ctfmon.exe killed!
+[7:08:39 PM] ctfmon.exe killed!
+[7:08:43 PM] sppsvc.exe killed!
+[7:08:43 PM] WmiPrvSE.exe killed!
+[7:08:44 PM] ctfmon.exe killed!
+[7:08:49 PM] ctfmon.exe killed!
+[7:08:54 PM] ctfmon.exe killed!
+[7:08:59 PM] ctfmon.exe killed!
+[7:09:00 PM] WmiPrvSE.exe killed!
+[7:09:04 PM] ctfmon.exe killed!
+[7:09:09 PM] ctfmon.exe killed!
+[7:09:14 PM] ctfmon.exe killed!
+[7:09:19 PM] ctfmon.exe killed!
+[7:09:24 PM] ctfmon.exe killed!
+[7:09:29 PM] ctfmon.exe killed!
+[7:09:34 PM] ctfmon.exe killed!
+[7:09:39 PM] ctfmon.exe killed!
+[7:09:44 PM] ctfmon.exe killed!
+[7:09:49 PM] ctfmon.exe killed!
+[7:09:54 PM] ctfmon.exe killed!
+[7:09:59 PM] ctfmon.exe killed!
+[7:10:00 PM] WmiPrvSE.exe killed!
+[7:10:04 PM] ctfmon.exe killed!
+[7:10:09 PM] ctfmon.exe killed!
+[7:10:14 PM] ctfmon.exe killed!
+[7:10:19 PM] ctfmon.exe killed!
+[7:10:24 PM] ctfmon.exe killed!
+[7:10:25 PM] SearchIndexer.exe killed!
+[7:10:25 PM] SearchIndexer.exe killed!
+[7:10:25 PM] SearchIndexer.exe killed!
+[7:10:26 PM] SearchIndexer.exe killed!
+[7:10:26 PM] SearchIndexer.exe killed!
+[7:10:26 PM] SearchIndexer.exe killed!
+[7:10:26 PM] SearchIndexer.exe killed!
+[7:10:29 PM] WmiPrvSE.exe killed!
+[7:10:29 PM] ctfmon.exe killed!
+[7:10:34 PM] ctfmon.exe killed!
+[7:10:39 PM] ctfmon.exe killed!
+[7:10:44 PM] ctfmon.exe killed!
+[7:10:49 PM] ctfmon.exe killed!
+[7:10:53 PM] WmiPrvSE.exe killed!
+[7:10:53 PM] WmiPrvSE.exe killed!
+[7:10:54 PM] ctfmon.exe killed!
+[7:10:54 PM] WmiPrvSE.exe killed!
+[7:10:59 PM] ctfmon.exe killed!
+[7:11:04 PM] ctfmon.exe killed!
+[7:11:09 PM] ctfmon.exe killed!
+[7:11:14 PM] ctfmon.exe killed!
+[7:11:19 PM] ctfmon.exe killed!
+[7:11:24 PM] ctfmon.exe killed!
+[7:11:24 PM] WmiPrvSE.exe killed!
+[7:11:24 PM] WmiPrvSE.exe killed!
+[7:11:25 PM] WmiPrvSE.exe killed!
+[7:11:25 PM] WmiPrvSE.exe killed!
+[7:11:29 PM] ctfmon.exe killed!
+[7:11:34 PM] ctfmon.exe killed!
+[7:11:39 PM] ctfmon.exe killed!
+[7:11:45 PM] ctfmon.exe killed!
+[7:11:45 PM] Failed to end task: ctfmon.exe
+[7:11:45 PM] Failed to end task: ctfmon.exe
+[7:11:46 PM] Failed to end task: ctfmon.exe
+[7:11:52 PM] ctfmon.exe killed!
+[7:11:53 PM] Failed to end task: ctfmon.exe
+[7:11:53 PM] Failed to end task: ctfmon.exe
+[7:11:53 PM] Failed to end task: ctfmon.exe
+[7:11:53 PM] Failed to end task: ctfmon.exe
+[7:12:00 PM] ctfmon.exe killed!
+[7:12:00 PM] Failed to end task: ctfmon.exe
+[7:12:00 PM] Failed to end task: ctfmon.exe
+[7:12:02 PM] WmiPrvSE.exe killed!
+[7:12:03 PM] Failed to end task: WmiPrvSE.exe
+[7:12:03 PM] WmiPrvSE.exe killed!
+[7:12:04 PM] Failed to end task: WmiPrvSE.exe
+[7:12:04 PM] Failed to end task: WmiPrvSE.exe
+[7:12:07 PM] ctfmon.exe killed!
+[7:12:07 PM] Failed to end task: ctfmon.exe
+[7:12:07 PM] Failed to end task: ctfmon.exe
+[7:12:08 PM] Failed to end task: ctfmon.exe
+[7:12:14 PM] ctfmon.exe killed!
+[7:12:14 PM] Failed to end task: ctfmon.exe
+[7:12:15 PM] Failed to end task: ctfmon.exe
+[7:12:15 PM] Failed to end task: ctfmon.exe
+[7:12:21 PM] ctfmon.exe killed!
+[7:12:22 PM] Failed to end task: ctfmon.exe
+[7:12:22 PM] Failed to end task: ctfmon.exe
+[7:12:24 PM] WmiPrvSE.exe killed!
+[7:12:24 PM] Failed to end task: WmiPrvSE.exe
+[7:12:25 PM] Failed to end task: WmiPrvSE.exe
+[7:12:25 PM] Failed to end task: WmiPrvSE.exe
+[7:12:28 PM] ctfmon.exe killed!
+[7:12:28 PM] Failed to end task: ctfmon.exe
+[7:12:29 PM] Failed to end task: ctfmon.exe
+[7:12:29 PM] SearchIndexer.exe killed!
+[7:12:29 PM] Failed to end task: ctfmon.exe
+[7:12:29 PM] Failed to end task: SearchIndexer.exe
+[7:12:29 PM] Failed to end task: SearchIndexer.exe
+[7:12:33 PM] SearchIndexer.exe killed!
+[7:12:33 PM] Failed to end task: SearchIndexer.exe
+[7:12:33 PM] Failed to end task: SearchIndexer.exe
+[7:12:33 PM] Failed to end task: SearchIndexer.exe
+[7:12:34 PM] Failed to end task: SearchIndexer.exe
+[7:12:35 PM] ctfmon.exe killed!
+[7:12:36 PM] Failed to end task: ctfmon.exe
+[7:12:36 PM] Failed to end task: ctfmon.exe
+[7:12:36 PM] Failed to end task: ctfmon.exe
+[7:12:37 PM] SearchIndexer.exe killed!
+[7:12:37 PM] Failed to end task: SearchIndexer.exe
+[7:12:38 PM] Failed to end task: SearchIndexer.exe
+[7:12:41 PM] SearchIndexer.exe killed!
+[7:12:41 PM] Failed to end task: SearchIndexer.exe
+[7:12:42 PM] Failed to end task: SearchIndexer.exe
+[7:12:42 PM] Failed to end task: SearchIndexer.exe
+[7:12:43 PM] ctfmon.exe killed!
+[7:12:43 PM] Failed to end task: ctfmon.exe
+[7:12:43 PM] Failed to end task: ctfmon.exe
+[7:12:45 PM] SearchIndexer.exe killed!
+[7:12:46 PM] Failed to end task: SearchIndexer.exe
+[7:12:46 PM] Failed to end task: SearchIndexer.exe
+[7:12:46 PM] Failed to end task: SearchIndexer.exe
+[7:12:49 PM] ctfmon.exe killed!
+[7:12:49 PM] SearchIndexer.exe killed!
+[7:12:49 PM] Failed to end task: ctfmon.exe
+[7:12:49 PM] Failed to end task: ctfmon.exe
+[7:12:53 PM] SearchIndexer.exe killed!
+[7:12:53 PM] Failed to end task: SearchIndexer.exe
+[7:12:53 PM] Failed to end task: SearchIndexer.exe
+[7:12:56 PM] ctfmon.exe killed!
+[7:12:56 PM] Failed to end task: ctfmon.exe
+[7:12:56 PM] Failed to end task: ctfmon.exe
+[7:12:57 PM] Failed to end task: ctfmon.exe
+[7:12:57 PM] SearchIndexer.exe killed!
+[7:13:02 PM] SearchIndexer.exe killed!
+[7:13:04 PM] WmiPrvSE.exe killed!
+[7:13:04 PM] ctfmon.exe killed!
+[7:13:04 PM] Failed to end task: WmiPrvSE.exe
+[7:13:05 PM] Failed to end task: ctfmon.exe
+[7:13:05 PM] WmiPrvSE.exe killed!
+[7:13:05 PM] Failed to end task: ctfmon.exe
+[7:13:05 PM] Failed to end task: WmiPrvSE.exe
+[7:13:05 PM] Failed to end task: WmiPrvSE.exe
+[7:13:06 PM] Failed to end task: WmiPrvSE.exe
+[7:13:06 PM] SearchIndexer.exe killed!
+[7:13:06 PM] Failed to end task: SearchIndexer.exe
+[7:13:06 PM] Failed to end task: SearchIndexer.exe
+[7:13:10 PM] SearchIndexer.exe killed!
+[7:13:10 PM] Failed to end task: SearchIndexer.exe
+[7:13:10 PM] Failed to end task: SearchIndexer.exe
+[7:13:12 PM] ctfmon.exe killed!
+[7:13:12 PM] Failed to end task: ctfmon.exe
+[7:13:12 PM] Failed to end task: ctfmon.exe
+[7:13:13 PM] SearchIndexer.exe killed!
+[7:13:14 PM] Failed to end task: SearchIndexer.exe
+[7:13:14 PM] Failed to end task: SearchIndexer.exe
+[7:13:14 PM] Failed to end task: SearchIndexer.exe
+[7:13:14 PM] Failed to end task: SearchIndexer.exe
+[7:13:17 PM] SearchIndexer.exe killed!
+[7:13:17 PM] Failed to end task: SearchIndexer.exe
+[7:13:18 PM] Failed to end task: SearchIndexer.exe
+[7:13:18 PM] ctfmon.exe killed!
+[7:13:19 PM] Failed to end task: ctfmon.exe
+[7:13:19 PM] Failed to end task: ctfmon.exe
+[7:13:19 PM] Failed to end task: ctfmon.exe
+[7:13:19 PM] Failed to end task: ctfmon.exe
+[7:13:20 PM] SearchIndexer.exe killed!
+[7:13:20 PM] Failed to end task: SearchIndexer.exe
+[7:13:23 PM] SearchIndexer.exe killed!
+[7:13:23 PM] Failed to end task: SearchIndexer.exe
+[7:13:24 PM] Failed to end task: SearchIndexer.exe
+[7:13:24 PM] Failed to end task: SearchIndexer.exe
+[7:13:25 PM] WmiPrvSE.exe killed!
+[7:13:25 PM] Failed to end task: WmiPrvSE.exe
+[7:13:26 PM] Failed to end task: WmiPrvSE.exe
+[7:13:26 PM] Failed to end task: WmiPrvSE.exe
+[7:13:26 PM] ctfmon.exe killed!
+[7:13:27 PM] SearchIndexer.exe killed!
+[7:13:27 PM] Failed to end task: SearchIndexer.exe
+[7:13:27 PM] Failed to end task: SearchIndexer.exe
+[7:13:30 PM] SearchIndexer.exe killed!
+[7:13:31 PM] Failed to end task: SearchIndexer.exe
+[7:13:31 PM] Failed to end task: SearchIndexer.exe
+[7:13:31 PM] Failed to end task: SearchIndexer.exe
+[7:13:33 PM] ctfmon.exe killed!
+[7:13:33 PM] Failed to end task: ctfmon.exe
+[7:13:33 PM] Failed to end task: ctfmon.exe
+[7:13:33 PM] Failed to end task: ctfmon.exe
+[7:13:34 PM] SearchIndexer.exe killed!
+[7:13:34 PM] Failed to end task: SearchIndexer.exe
+[7:13:35 PM] Failed to end task: SearchIndexer.exe
+[7:13:35 PM] Failed to end task: SearchIndexer.exe
+[7:13:38 PM] SearchIndexer.exe killed!
+[7:13:38 PM] Failed to end task: SearchIndexer.exe
+[7:13:39 PM] Failed to end task: SearchIndexer.exe
+[7:13:40 PM] ctfmon.exe killed!
+[7:13:40 PM] Failed to end task: ctfmon.exe
+[7:13:41 PM] Failed to end task: ctfmon.exe
+[7:13:42 PM] SearchIndexer.exe killed!
+[7:13:42 PM] Failed to end task: SearchIndexer.exe
+[7:13:42 PM] Failed to end task: SearchIndexer.exe
+[7:13:45 PM] SearchIndexer.exe killed!
+[7:13:46 PM] backgroundTaskHost.exe killed!
+[7:13:46 PM] Failed to end task: backgroundTaskHost.exe
+[7:13:47 PM] Failed to end task: backgroundTaskHost.exe
+[7:13:47 PM] ctfmon.exe killed!
+[7:13:47 PM] Failed to end task: ctfmon.exe
+[7:13:48 PM] Failed to end task: ctfmon.exe
+[7:13:48 PM] SearchIndexer.exe killed!
+[7:13:48 PM] Failed to end task: SearchIndexer.exe
+[7:13:51 PM] SearchIndexer.exe killed!
+[7:13:51 PM] WmiPrvSE.exe killed!
+[7:13:51 PM] Failed to end task: SearchIndexer.exe
+[7:13:52 PM] Failed to end task: SearchIndexer.exe
+[7:13:52 PM] Failed to end task: WmiPrvSE.exe
+[7:13:53 PM] WmiPrvSE.exe killed!
+[7:13:53 PM] Failed to end task: WmiPrvSE.exe
+[7:13:53 PM] Failed to end task: WmiPrvSE.exe
+[7:13:54 PM] ctfmon.exe killed!
+[7:13:54 PM] WmiPrvSE.exe killed!
+[7:13:54 PM] Failed to end task: ctfmon.exe
+[7:13:54 PM] Failed to end task: ctfmon.exe
+[7:13:54 PM] SearchIndexer.exe killed!
+[7:13:54 PM] Failed to end task: ctfmon.exe
+[7:13:55 PM] Failed to end task: SearchIndexer.exe
+[7:13:55 PM] Failed to end task: SearchIndexer.exe
+[7:13:55 PM] Failed to end task: SearchIndexer.exe
+[7:13:55 PM] WmiPrvSE.exe killed!
+[7:13:56 PM] WmiPrvSE.exe killed!
+[7:13:56 PM] Failed to end task: WmiPrvSE.exe
+[7:13:57 PM] Failed to end task: WmiPrvSE.exe
+[7:13:57 PM] Failed to end task: WmiPrvSE.exe
+[7:13:57 PM] Failed to end task: WmiPrvSE.exe
+[7:13:57 PM] Failed to end task: WmiPrvSE.exe
+[7:13:58 PM] WmiPrvSE.exe killed!
+[7:13:58 PM] Failed to end task: WmiPrvSE.exe
+[7:13:59 PM] Failed to end task: WmiPrvSE.exe
+[7:13:59 PM] SearchIndexer.exe killed!
+[7:13:59 PM] Failed to end task: SearchIndexer.exe
+[7:13:59 PM] Failed to end task: SearchIndexer.exe
+[7:14:00 PM] Failed to end task: SearchIndexer.exe
+[7:14:00 PM] WmiPrvSE.exe killed!
+[7:14:01 PM] ctfmon.exe killed!
+[7:14:01 PM] WmiPrvSE.exe killed!
+[7:14:01 PM] Failed to end task: WmiPrvSE.exe
+[7:14:01 PM] Failed to end task: WmiPrvSE.exe
+[7:14:02 PM] WmiPrvSE.exe killed!
+[7:14:02 PM] Failed to end task: WmiPrvSE.exe
+[7:14:02 PM] Failed to end task: WmiPrvSE.exe
+[7:14:02 PM] Failed to end task: WmiPrvSE.exe
+[7:14:03 PM] WmiPrvSE.exe killed!
+[7:14:03 PM] SearchIndexer.exe killed!
+[7:14:03 PM] WmiPrvSE.exe killed!
+[7:14:04 PM] Failed to end task: WmiPrvSE.exe
+[7:14:04 PM] Failed to end task: WmiPrvSE.exe
+[7:14:04 PM] Failed to end task: WmiPrvSE.exe
+[7:14:04 PM] Failed to end task: WmiPrvSE.exe
+[7:14:05 PM] WmiPrvSE.exe killed!
+[7:14:05 PM] Failed to end task: WmiPrvSE.exe
+[7:14:05 PM] Failed to end task: WmiPrvSE.exe
+[7:14:06 PM] Failed to end task: WmiPrvSE.exe
+[7:14:06 PM] SearchIndexer.exe killed!
+[7:14:06 PM] Failed to end task: WmiPrvSE.exe
+[7:14:06 PM] Failed to end task: SearchIndexer.exe
+[7:14:06 PM] ctfmon.exe killed!
+[7:14:09 PM] SearchIndexer.exe killed!
+[7:14:09 PM] Failed to end task: SearchIndexer.exe
+[7:14:09 PM] Failed to end task: SearchIndexer.exe
+[7:14:10 PM] Failed to end task: SearchIndexer.exe
+[7:14:10 PM] Failed to end task: SearchIndexer.exe
+[7:14:13 PM] ctfmon.exe killed!
+[7:14:13 PM] SearchIndexer.exe killed!
+[7:14:14 PM] Failed to end task: SearchIndexer.exe
+[7:14:14 PM] Failed to end task: SearchIndexer.exe
+[7:14:19 PM] SearchIndexer.exe killed!
+[7:14:19 PM] Failed to end task: SearchIndexer.exe
+[7:14:19 PM] Failed to end task: SearchIndexer.exe
+[7:14:20 PM] ctfmon.exe killed!
+[7:14:20 PM] Failed to end task: SearchIndexer.exe
+[7:14:20 PM] Failed to end task: ctfmon.exe
+[7:14:20 PM] Failed to end task: ctfmon.exe
+[7:14:22 PM] SearchIndexer.exe killed!
+[7:14:23 PM] Failed to end task: SearchIndexer.exe
+[7:14:23 PM] Failed to end task: SearchIndexer.exe
+[7:14:23 PM] Failed to end task: SearchIndexer.exe
+[7:14:24 PM] WmiPrvSE.exe killed!
+[7:14:24 PM] Failed to end task: WmiPrvSE.exe
+[7:14:24 PM] SearchIndexer.exe killed!
+[7:14:24 PM] SearchIndexer.exe killed!
+[7:14:25 PM] SearchIndexer.exe killed!
+[7:14:25 PM] SearchIndexer.exe killed!
+[7:14:25 PM] SearchIndexer.exe killed!
+[7:14:25 PM] SearchIndexer.exe killed!
+[7:14:26 PM] SearchIndexer.exe killed!
+[7:14:26 PM] ctfmon.exe killed!
+[7:14:26 PM] SearchIndexer.exe killed!
+[7:14:26 PM] SearchIndexer.exe killed!
+[7:14:26 PM] SearchIndexer.exe killed!
+[7:14:27 PM] SearchIndexer.exe killed!
+[7:14:27 PM] SearchIndexer.exe killed!
+[7:14:27 PM] SearchIndexer.exe killed!
+[7:14:28 PM] SearchIndexer.exe killed!
+[7:14:28 PM] Failed to end task: SearchIndexer.exe
+[7:14:28 PM] SearchIndexer.exe killed!
+[7:14:28 PM] SearchIndexer.exe killed!
+[7:14:29 PM] SearchIndexer.exe killed!
+[7:14:29 PM] SearchIndexer.exe killed!
+[7:14:29 PM] SearchIndexer.exe killed!
+[7:14:29 PM] SearchIndexer.exe killed!
+[7:14:30 PM] SearchIndexer.exe killed!
+[7:14:30 PM] SearchIndexer.exe killed!
+[7:14:30 PM] SearchIndexer.exe killed!
+[7:14:31 PM] ctfmon.exe killed!
+[7:14:31 PM] SearchIndexer.exe killed!
+[7:14:31 PM] SearchIndexer.exe killed!
+[7:14:31 PM] SearchIndexer.exe killed!
+[7:14:31 PM] SearchIndexer.exe killed!
+[7:14:32 PM] SearchIndexer.exe killed!
+[7:14:32 PM] SearchIndexer.exe killed!
+[7:14:32 PM] SearchIndexer.exe killed!
+[7:14:36 PM] ctfmon.exe killed!
+[7:14:39 PM] backgroundTaskHost.exe killed!
+[7:14:39 PM] backgroundTaskHost.exe killed!
+[7:14:41 PM] ctfmon.exe killed!
+[7:14:43 PM] WmiPrvSE.exe killed!
+[7:14:46 PM] ctfmon.exe killed!
+[7:14:49 PM] WmiPrvSE.exe killed!
+[7:14:50 PM] WmiPrvSE.exe killed!
+[7:14:51 PM] ctfmon.exe killed!
+[7:14:56 PM] WmiPrvSE.exe killed!
+[7:14:56 PM] ctfmon.exe killed!
+[7:15:01 PM] ctfmon.exe killed!
+[7:15:06 PM] ctfmon.exe killed!
+[7:15:11 PM] ctfmon.exe killed!
+[7:15:16 PM] ctfmon.exe killed!
+[7:15:21 PM] ctfmon.exe killed!
+[7:15:26 PM] ctfmon.exe killed!
+[7:15:26 PM] WmiPrvSE.exe killed!
+[7:15:26 PM] WmiPrvSE.exe killed!
+[7:15:27 PM] WmiPrvSE.exe killed!
+[7:15:31 PM] ctfmon.exe killed!
+[7:15:36 PM] ctfmon.exe killed!
+[7:15:39 PM] Closing! Saving log...
