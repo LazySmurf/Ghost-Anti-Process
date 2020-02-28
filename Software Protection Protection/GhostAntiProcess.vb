@@ -1,4 +1,7 @@
-﻿Imports System.ComponentModel
+﻿'Ghost Anti-Process
+'Main Logic
+
+Imports System.ComponentModel
 Imports System.IO
 
 Public Class GhostAntiProcess
@@ -129,18 +132,34 @@ Public Class GhostAntiProcess
                     My.Settings.KMSService = False
                 End If
 
+                If SettingSyncHostCheck.Checked = True Then
+                    If Target.ProcessName = "SettingSyncHost" Then 'If some unnecessary service to sync settings that most people don't use
+                        CurrProc = "SettingSyncHost.exe"
+                        Target.Kill()
+                        ConsoleLog("SettingSyncHost.exe killed!")
+                    End If
+                    My.Settings.SettingSyncHost = True
+                Else
+                    My.Settings.SettingSyncHost = False
+                End If
+
+                If ZeroConfigServiceCheck.Checked = True Then
+                    If Target.ProcessName = "ZeroConfigService" Then 'If Windows PnP Zero Configuration Service
+                        CurrProc = "ZeroConfigService.exe"
+                        Target.Kill()
+                        ConsoleLog("ZeroConfigService.exe killed!")
+                    End If
+                    My.Settings.ZeroConfigService = True
+                Else
+                    My.Settings.ZeroConfigService = False
+                End If
+
                 '```````````````````````````````````````````````````````````````````````'
 
                 If Target.ProcessName = "YourPhone" Then 'If Windows Your Phone Mobile service
                     CurrProc = "YourPhone.exe"
                     Target.Kill()
                     ConsoleLog("YourPhone.exe killed!")
-                End If
-
-                If Target.ProcessName = "ZeroConfigService" Then 'If Windows PnP Zero Configuration Service
-                    CurrProc = "ZeroConfigService.exe"
-                    Target.Kill()
-                    ConsoleLog("ZeroConfigService.exe killed!")
                 End If
 
                 If Target.ProcessName = "WmiPrvSE" Then 'If Windows Management Instrumentation Provider Service that performs "essential error reporting and monitoring functions"
@@ -153,12 +172,6 @@ Public Class GhostAntiProcess
                     CurrProc = "ctfmon.exe"
                     Target.Kill()
                     ConsoleLog("ctfmon.exe killed!")
-                End If
-
-                If Target.ProcessName = "SettingSyncHost" Then 'If some unnecessary service to sync settings that most people don't use
-                    CurrProc = "SettingSyncHost.exe"
-                    Target.Kill()
-                    ConsoleLog("SettingSyncHost.exe killed!")
                 End If
 
                 If Target.ProcessName = "backgroundTaskHost" Then 'If some unnecessary Windows service
@@ -189,10 +202,6 @@ Public Class GhostAntiProcess
         Catch ex As Exception
             ConsoleLog("Failed to end task: " & CurrProc)
         End Try
-    End Sub
-
-    Private Sub CloseButton_Click(sender As Object, e As EventArgs) Handles CloseButton.Click
-        Close()
     End Sub
 
     'Handles logging application events to the log window

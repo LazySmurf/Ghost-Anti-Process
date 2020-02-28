@@ -1,4 +1,7 @@
-﻿Partial Class GhostAntiProcess
+﻿'Ghost Anti-Process
+'Form Layout and Functionality
+
+Partial Class GhostAntiProcess
     Dim X1 As Integer
     Dim Y1 As Integer
     Dim WR As Rectangle
@@ -102,5 +105,44 @@
             My.Settings.IsHidden = "No"
             Show()
         End If
+    End Sub
+
+    Private Sub TopMostCheck_CheckedChanged(sender As Object, e As EventArgs) Handles TopMostCheck.CheckedChanged
+        If TopMostCheck.Checked = True Then
+            TopMost = True
+            My.Settings.TopMost = True
+        Else
+            TopMost = False
+            My.Settings.TopMost = False
+        End If
+    End Sub
+
+    'Handle the minimize and exit buttons in a borderless form
+    Private Sub ExitNormal_MouseEnter(sender As Object, e As EventArgs) Handles ExitNormal.MouseEnter
+        ExitNormal.Visible = False
+        ExitHover.Visible = True
+    End Sub
+
+    Private Sub ExitHover_MouseLeave(sender As Object, e As EventArgs) Handles ExitHover.MouseLeave
+        ExitNormal.Visible = True
+        ExitHover.Visible = False
+    End Sub
+
+    Private Sub ExitHover_Click(sender As Object, e As EventArgs) Handles ExitHover.Click
+        Close()
+    End Sub
+
+    Private Sub MinNormal_MouseEnter(sender As Object, e As EventArgs) Handles MinNormal.MouseEnter
+        MinNormal.Visible = False
+        MinHover.Visible = True
+    End Sub
+
+    Private Sub MinHover_MouseLeave(sender As Object, e As EventArgs) Handles MinHover.MouseLeave
+        MinNormal.Visible = True
+        MinHover.Visible = False
+    End Sub
+
+    Private Sub MinHover_Click(sender As Object, e As EventArgs) Handles MinHover.Click
+        WindowState = FormWindowState.Minimized
     End Sub
 End Class

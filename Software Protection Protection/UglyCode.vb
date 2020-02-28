@@ -1,4 +1,7 @@
-﻿Partial Class GhostAntiProcess
+﻿'Ghost Anti-Process
+'Repetitive Code/Form Functions
+
+Partial Class GhostAntiProcess
     Private Sub PowerModeChanged(ByVal sender As System.Object, ByVal e As Microsoft.Win32.PowerModeChangedEventArgs)
         Select Case e.Mode
             Case Microsoft.Win32.PowerModes.Suspend 'Windows is going to sleep

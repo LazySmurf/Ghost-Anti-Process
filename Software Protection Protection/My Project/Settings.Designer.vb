@@ -137,6 +137,42 @@ Namespace My
                 Me("SystemSettings") = value
             End Set
         End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("False")>  _
+        Public Property SettingSyncHost() As Boolean
+            Get
+                Return CType(Me("SettingSyncHost"),Boolean)
+            End Get
+            Set
+                Me("SettingSyncHost") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("False")>  _
+        Public Property ZeroConfigService() As Boolean
+            Get
+                Return CType(Me("ZeroConfigService"),Boolean)
+            End Get
+            Set
+                Me("ZeroConfigService") = value
+            End Set
+        End Property
+        
+        <Global.System.Configuration.UserScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("False")>  _
+        Public Property TopMost() As Boolean
+            Get
+                Return CType(Me("TopMost"),Boolean)
+            End Get
+            Set
+                Me("TopMost") = value
+            End Set
+        End Property
     End Class
 End Namespace
 
