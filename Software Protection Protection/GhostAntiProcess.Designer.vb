@@ -48,6 +48,13 @@ Partial Class GhostAntiProcess
         Me.MinNormal = New System.Windows.Forms.PictureBox()
         Me.MinHover = New System.Windows.Forms.PictureBox()
         Me.TopMostCheck = New System.Windows.Forms.CheckBox()
+        Me.Label2 = New System.Windows.Forms.Label()
+        Me.CPUUsageBar = New System.Windows.Forms.ProgressBar()
+        Me.Label1 = New System.Windows.Forms.Label()
+        Me.CPUUsageLabel = New System.Windows.Forms.Label()
+        Me.PerformanceTimer = New System.Windows.Forms.Timer(Me.components)
+        Me.RAMUsageBar = New System.Windows.Forms.ProgressBar()
+        Me.RAMUsageLabel = New System.Windows.Forms.Label()
         Me.LogGroupBox.SuspendLayout()
         CType(Me.ExitNormal, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.ExitHover, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -123,7 +130,7 @@ Partial Class GhostAntiProcess
         Me.LogBox.Name = "LogBox"
         Me.LogBox.ReadOnly = True
         Me.LogBox.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.LogBox.Size = New System.Drawing.Size(291, 200)
+        Me.LogBox.Size = New System.Drawing.Size(291, 139)
         Me.LogBox.TabIndex = 5
         '
         'CheckTime
@@ -137,10 +144,10 @@ Partial Class GhostAntiProcess
         Me.LogGroupBox.ForeColor = System.Drawing.Color.White
         Me.LogGroupBox.Location = New System.Drawing.Point(285, 12)
         Me.LogGroupBox.Name = "LogGroupBox"
-        Me.LogGroupBox.Size = New System.Drawing.Size(297, 221)
+        Me.LogGroupBox.Size = New System.Drawing.Size(297, 160)
         Me.LogGroupBox.TabIndex = 6
         Me.LogGroupBox.TabStop = False
-        Me.LogGroupBox.Text = "Application Log"
+        Me.LogGroupBox.Text = "Console Log"
         '
         'HideShowLogButton
         '
@@ -288,12 +295,77 @@ Partial Class GhostAntiProcess
         Me.TopMostCheck.Text = "Always On Top"
         Me.TopMostCheck.UseVisualStyleBackColor = True
         '
+        'Label2
+        '
+        Me.Label2.AutoSize = True
+        Me.Label2.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label2.ForeColor = System.Drawing.Color.DimGray
+        Me.Label2.Location = New System.Drawing.Point(280, 222)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(307, 14)
+        Me.Label2.TabIndex = 22
+        Me.Label2.Text = "__________________________________________________"
+        '
+        'CPUUsageBar
+        '
+        Me.CPUUsageBar.Location = New System.Drawing.Point(285, 192)
+        Me.CPUUsageBar.Name = "CPUUsageBar"
+        Me.CPUUsageBar.Size = New System.Drawing.Size(297, 10)
+        Me.CPUUsageBar.Step = 1
+        Me.CPUUsageBar.TabIndex = 23
+        '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label1.ForeColor = System.Drawing.Color.DimGray
+        Me.Label1.Location = New System.Drawing.Point(282, 164)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(307, 14)
+        Me.Label1.TabIndex = 24
+        Me.Label1.Text = "__________________________________________________"
+        '
+        'CPUUsageLabel
+        '
+        Me.CPUUsageLabel.Font = New System.Drawing.Font("Segoe UI", 6.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CPUUsageLabel.Location = New System.Drawing.Point(285, 178)
+        Me.CPUUsageLabel.Name = "CPUUsageLabel"
+        Me.CPUUsageLabel.Size = New System.Drawing.Size(297, 13)
+        Me.CPUUsageLabel.TabIndex = 25
+        Me.CPUUsageLabel.Text = "Total CPU Usage: (0%)"
+        Me.CPUUsageLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
+        'PerformanceTimer
+        '
+        Me.PerformanceTimer.Enabled = True
+        '
+        'RAMUsageBar
+        '
+        Me.RAMUsageBar.Location = New System.Drawing.Point(285, 219)
+        Me.RAMUsageBar.Name = "RAMUsageBar"
+        Me.RAMUsageBar.Size = New System.Drawing.Size(297, 10)
+        Me.RAMUsageBar.Step = 1
+        Me.RAMUsageBar.TabIndex = 26
+        '
+        'RAMUsageLabel
+        '
+        Me.RAMUsageLabel.Font = New System.Drawing.Font("Segoe UI", 6.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.RAMUsageLabel.Location = New System.Drawing.Point(285, 205)
+        Me.RAMUsageLabel.Name = "RAMUsageLabel"
+        Me.RAMUsageLabel.Size = New System.Drawing.Size(297, 13)
+        Me.RAMUsageLabel.TabIndex = 27
+        Me.RAMUsageLabel.Text = "Total RAM Usage: (0%)"
+        Me.RAMUsageLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'GhostAntiProcess
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer), CType(CType(64, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(594, 330)
+        Me.Controls.Add(Me.RAMUsageBar)
+        Me.Controls.Add(Me.RAMUsageLabel)
+        Me.Controls.Add(Me.CPUUsageBar)
         Me.Controls.Add(Me.TopMostCheck)
         Me.Controls.Add(Me.MinHover)
         Me.Controls.Add(Me.MinNormal)
@@ -313,6 +385,9 @@ Partial Class GhostAntiProcess
         Me.Controls.Add(Me.DevLink)
         Me.Controls.Add(Me.HideButton)
         Me.Controls.Add(Me.MainParagraph)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.CPUUsageLabel)
         Me.Font = New System.Drawing.Font("Segoe UI", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.ForeColor = System.Drawing.Color.White
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
@@ -357,4 +432,11 @@ Partial Class GhostAntiProcess
     Friend WithEvents MinNormal As PictureBox
     Friend WithEvents MinHover As PictureBox
     Friend WithEvents TopMostCheck As CheckBox
+    Friend WithEvents Label2 As Label
+    Friend WithEvents CPUUsageBar As ProgressBar
+    Friend WithEvents Label1 As Label
+    Friend WithEvents CPUUsageLabel As Label
+    Friend WithEvents PerformanceTimer As Timer
+    Friend WithEvents RAMUsageBar As ProgressBar
+    Friend WithEvents RAMUsageLabel As Label
 End Class

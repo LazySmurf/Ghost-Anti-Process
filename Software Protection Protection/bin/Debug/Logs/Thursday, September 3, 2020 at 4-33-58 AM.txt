@@ -1,0 +1,112 @@
+[4:30:17 AM] Counter: Page Faults/sec
+[4:30:17 AM] Counter: Available Bytes
+[4:30:17 AM] Counter: Committed Bytes
+[4:30:17 AM] Counter: Commit Limit
+[4:30:17 AM] Counter: Write Copies/sec
+[4:30:17 AM] Counter: Transition Faults/sec
+[4:30:17 AM] Counter: Cache Faults/sec
+[4:30:17 AM] Counter: Demand Zero Faults/sec
+[4:30:17 AM] Counter: Pages/sec
+[4:30:17 AM] Counter: Pages Input/sec
+[4:30:17 AM] Counter: Page Reads/sec
+[4:30:17 AM] Counter: Pages Output/sec
+[4:30:17 AM] Counter: Pool Paged Bytes
+[4:30:17 AM] Counter: Pool Nonpaged Bytes
+[4:30:17 AM] Counter: Page Writes/sec
+[4:30:17 AM] Counter: Pool Paged Allocs
+[4:30:17 AM] Counter: Pool Nonpaged Allocs
+[4:30:17 AM] Counter: Free System Page Table Entries
+[4:30:17 AM] Counter: Cache Bytes
+[4:30:17 AM] Counter: Cache Bytes Peak
+[4:30:17 AM] Counter: Pool Paged Resident Bytes
+[4:30:17 AM] Counter: System Code Total Bytes
+[4:30:17 AM] Counter: System Code Resident Bytes
+[4:30:17 AM] Counter: System Driver Total Bytes
+[4:30:17 AM] Counter: System Driver Resident Bytes
+[4:30:17 AM] Counter: System Cache Resident Bytes
+[4:30:17 AM] Counter: % Committed Bytes In Use
+[4:30:17 AM] Counter: Available KBytes
+[4:30:17 AM] Counter: Available MBytes
+[4:30:17 AM] Counter: Transition Pages RePurposed/sec
+[4:30:17 AM] Counter: Free & Zero Page List Bytes
+[4:30:17 AM] Counter: Modified Page List Bytes
+[4:30:17 AM] Counter: Standby Cache Reserve Bytes
+[4:30:17 AM] Counter: Standby Cache Normal Priority Bytes
+[4:30:17 AM] Counter: Standby Cache Core Bytes
+[4:30:17 AM] Counter: Long-Term Average Standby Cache Lifetime (s)
+[4:30:17 AM] Thursday, September 3, 2020
+[4:30:17 AM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[4:30:17 AM] Process Kill Interval: 250ms
+[4:30:17 AM] Loading Complete!
+[4:30:17 AM] SearchIndexer.exe killed!
+[4:30:17 AM] WmiPrvSE.exe killed!
+[4:30:17 AM] ctfmon.exe killed!
+[4:30:19 AM] ctfmon.exe killed!
+[4:30:19 AM] WmiPrvSE.exe killed!
+[4:30:19 AM] WmiPrvSE.exe killed!
+[4:30:23 AM] WmiPrvSE.exe killed!
+[4:30:24 AM] ctfmon.exe killed!
+[4:30:29 AM] ctfmon.exe killed!
+[4:30:34 AM] ctfmon.exe killed!
+[4:30:39 AM] ctfmon.exe killed!
+[4:30:44 AM] ctfmon.exe killed!
+[4:30:45 AM] WmiPrvSE.exe killed!
+[4:30:48 AM] WmiPrvSE.exe killed!
+[4:30:49 AM] ctfmon.exe killed!
+[4:30:51 AM] WmiPrvSE.exe killed!
+[4:30:51 AM] WmiPrvSE.exe killed!
+[4:30:54 AM] ctfmon.exe killed!
+[4:30:59 AM] ctfmon.exe killed!
+[4:31:04 AM] ctfmon.exe killed!
+[4:31:04 AM] WmiPrvSE.exe killed!
+[4:31:08 AM] WmiPrvSE.exe killed!
+[4:31:09 AM] ctfmon.exe killed!
+[4:31:14 AM] ctfmon.exe killed!
+[4:31:19 AM] ctfmon.exe killed!
+[4:31:24 AM] ctfmon.exe killed!
+[4:31:29 AM] ctfmon.exe killed!
+[4:31:34 AM] ctfmon.exe killed!
+[4:31:38 AM] WmiPrvSE.exe killed!
+[4:31:39 AM] ctfmon.exe killed!
+[4:31:41 AM] WmiPrvSE.exe killed!
+[4:31:44 AM] ctfmon.exe killed!
+[4:31:47 AM] WmiPrvSE.exe killed!
+[4:31:49 AM] ctfmon.exe killed!
+[4:31:50 AM] WmiPrvSE.exe killed!
+[4:31:53 AM] WmiPrvSE.exe killed!
+[4:31:54 AM] ctfmon.exe killed!
+[4:31:59 AM] ctfmon.exe killed!
+[4:32:04 AM] ctfmon.exe killed!
+[4:32:09 AM] ctfmon.exe killed!
+[4:32:14 AM] ctfmon.exe killed!
+[4:32:19 AM] ctfmon.exe killed!
+[4:32:23 AM] WmiPrvSE.exe killed!
+[4:32:24 AM] ctfmon.exe killed!
+[4:32:26 AM] WmiPrvSE.exe killed!
+[4:32:29 AM] ctfmon.exe killed!
+[4:32:34 AM] ctfmon.exe killed!
+[4:32:38 AM] WmiPrvSE.exe killed!
+[4:32:39 AM] ctfmon.exe killed!
+[4:32:39 AM] WmiPrvSE.exe killed!
+[4:32:42 AM] WmiPrvSE.exe killed!
+[4:32:44 AM] ctfmon.exe killed!
+[4:32:49 AM] ctfmon.exe killed!
+[4:32:53 AM] WmiPrvSE.exe killed!
+[4:32:54 AM] ctfmon.exe killed!
+[4:32:56 AM] WmiPrvSE.exe killed!
+[4:32:58 AM] WmiPrvSE.exe killed!
+[4:32:59 AM] ctfmon.exe killed!
+[4:33:04 AM] ctfmon.exe killed!
+[4:33:09 AM] ctfmon.exe killed!
+[4:33:14 AM] ctfmon.exe killed!
+[4:33:19 AM] ctfmon.exe killed!
+[4:33:24 AM] ctfmon.exe killed!
+[4:33:28 AM] WmiPrvSE.exe killed!
+[4:33:29 AM] ctfmon.exe killed!
+[4:33:31 AM] WmiPrvSE.exe killed!
+[4:33:34 AM] ctfmon.exe killed!
+[4:33:39 AM] ctfmon.exe killed!
+[4:33:44 AM] ctfmon.exe killed!
+[4:33:49 AM] ctfmon.exe killed!
+[4:33:54 AM] ctfmon.exe killed!
+[4:33:58 AM] Closing! Saving log...

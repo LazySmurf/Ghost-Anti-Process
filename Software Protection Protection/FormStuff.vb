@@ -117,6 +117,8 @@ Partial Class GhostAntiProcess
         End If
     End Sub
 
+
+
     'Handle the minimize and exit buttons in a borderless form
     Private Sub ExitNormal_MouseEnter(sender As Object, e As EventArgs) Handles ExitNormal.MouseEnter
         ExitNormal.Visible = False

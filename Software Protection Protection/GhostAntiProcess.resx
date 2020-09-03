@@ -2313,6 +2313,9 @@ This program will work best if placed into the Startup directory, so that it may
         OFsCdZG6UBHrGPq9fYyMuyUAdBtX+ycfL4Snnva/Pj4UtEE8jZ4AAAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="PerformanceTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>507, 20</value>
+  </metadata>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         AAABAAYAEBAAAAEAIABoBAAAZgAAAAAAAAABACAAKg0AAM4EAAAwMAAAAQAgAKglAAD4EQAAICAAAAEA

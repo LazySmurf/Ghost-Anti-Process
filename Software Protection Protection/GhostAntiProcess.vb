@@ -3,9 +3,18 @@
 
 Imports System.ComponentModel
 Imports System.IO
+Imports System.Globalization
+Imports System.Diagnostics
+Imports System.Threading
+Imports System.Management
 
 Public Class GhostAntiProcess
     Private Sub GhostAntiProcess_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'Dim pcc As New PerformanceCounterCategory("Memory")
+        'For Each counter In pcc.GetCounters
+        'ConsoleLog("Counter: " & counter.CounterName.ToString)
+        'Next
+
         ConsoleLog(DateTime.Now.ToString("dddd, MMMM d, yyyy"))
         SettingCheck.Start()
         CurveBorder(20)
@@ -45,6 +54,12 @@ Public Class GhostAntiProcess
         End If
         If My.Settings.PhotosApp = True Then
             PhotosCheck.Checked = True
+        End If
+        If My.Settings.SettingSyncHost = True Then
+            SettingSyncHostCheck.Checked = True
+        End If
+        If My.Settings.ZeroConfigService = True Then
+            ZeroConfigServiceCheck.Checked = True
         End If
     End Sub
 
@@ -218,5 +233,23 @@ Public Class GhostAntiProcess
         If Now.ToLongTimeString.ToString() = "12:00:00 AM" Then
             ConsoleLog(DateTime.Now.ToString("dddd, MMMM d, yyyy"))
         End If
+    End Sub
+
+    Dim CPU As New PerformanceCounter With {.CategoryName = "Processor", .CounterName = "% Processor Time", .InstanceName = "_Total"}
+    Dim AvailMemory As New PerformanceCounter With {.CategoryName = "Memory", .CounterName = "Available MBytes"}
+    Dim CommitMemory As New PerformanceCounter With {.CategoryName = "Memory", .CounterName = "Committed Bytes"}
+    Dim UsedMemory As New PerformanceCounter With {.CategoryName = "Memory", .CounterName = "% Committed Bytes In Use"}
+    Dim MaxMemory As New PerformanceCounter With {.CategoryName = "Memory", .CounterName = "Commit Limit"}
+    Private Sub PerformanceTimer_Tick(sender As Object, e As EventArgs) Handles PerformanceTimer.Tick
+        Dim CPUUsage As Integer = Math.Round(CPU.NextValue)
+        Dim RAMAvailable As Integer = Math.Round(AvailMemory.NextValue)
+        Dim RAMCommitted As Integer = Math.Round(CommitMemory.NextValue / 1024 / 1024)
+        Dim RAMPercent As Integer = Math.Round(UsedMemory.NextValue)
+        Dim MemoryLimit As Integer = Math.Round(MaxMemory.NextValue / 1024 / 1024)
+
+        CPUUsageLabel.Text = "Total CPU Usage: (" & CPUUsage & "%)"
+        CPUUsageBar.Value = CPUUsage
+        RAMUsageLabel.Text = "Total RAM Usage: (" & RAMPercent & "%, " & (MemoryLimit - RAMAvailable).ToString("N0") & " MB Used — " & RAMAvailable.ToString("N0") & " MB Free)"
+        RAMUsageBar.Value = RAMPercent
     End Sub
 End Class

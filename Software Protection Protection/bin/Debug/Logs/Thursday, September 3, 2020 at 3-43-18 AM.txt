@@ -1,0 +1,12 @@
+[3:43:12 AM] Thursday, September 3, 2020
+[3:43:12 AM] Logging to C:\Users\Makeshift\source\repos\Software Protection Protection\Software Protection Protection\bin\Debug\Logs\
+[3:43:12 AM] Process Kill Interval: 250ms
+[3:43:12 AM] Loading Complete!
+[3:43:13 AM] WmiPrvSE.exe killed!
+[3:43:13 AM] ctfmon.exe killed!
+[3:43:13 AM] SearchIndexer.exe killed!
+[3:43:13 AM] WmiPrvSE.exe killed!
+[3:43:13 AM] ctfmon.exe killed!
+[3:43:14 AM] WmiPrvSE.exe killed!
+[3:43:18 AM] WmiPrvSE.exe killed!
+[3:43:18 AM] Closing! Saving log...
